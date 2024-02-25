@@ -4,6 +4,7 @@
         "delaxes",
         "figsize",
         "fontsize",
+        "nunique",
         "suptitle",
         "violinplot",
         "whitegrid"
