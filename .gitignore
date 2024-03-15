@@ -2,3 +2,41 @@ dataset_diabetes/diabetic_data.csv
 dataset_diabetes/IDs_mapping.csv
 .DS_Store
 dataset_diabetes.zip
+dataset_diabetes.zip
+data.ipynb
+COMP0189_CW2_HVWM7_Figures_png/TIMEHOSPI-HISTO.png
+COMP0189_CW2_HVWM7_Figures_png/Target_PieChart.png
+COMP0189_CW2_HVWM7_Figures_png/TARGET_MultipleENCOUNTER.png
+COMP0189_CW2_HVWM7_Figures_png/Screenshot 2024-03-13 at 12.17.05 AM.png
+COMP0189_CW2_HVWM7_Figures_png/Screenshot 2024-03-13 at 12.16.37 AM.png
+COMP0189_CW2_HVWM7_Figures_png/Screenshot 2024-03-12 at 5.27.28 PM.png
+COMP0189_CW2_HVWM7_Figures_png/Screenshot 2024-03-12 at 5.26.40 PM.png
+COMP0189_CW2_HVWM7_Figures_png/Screenshot 2024-03-12 at 5.25.55 PM.png
+COMP0189_CW2_HVWM7_Figures_png/RF_Perf2.png
+COMP0189_CW2_HVWM7_Figures_png/RF_Perf.png
+COMP0189_CW2_HVWM7_Figures_png/RACES_Histo.png
+COMP0189_CW2_HVWM7_Figures_png/noCV.png
+COMP0189_CW2_HVWM7_Figures_png/Medications_UNIQUE.png
+COMP0189_CW2_HVWM7_Figures_png/Linear_Perf.png
+COMP0189_CW2_HVWM7_Figures_png/image.png
+COMP0189_CW2_HVWM7_Figures_png/Histo_Time-in-Hospital.png
+COMP0189_CW2_HVWM7_Figures_png/GB_Perf2.png
+COMP0189_CW2_HVWM7_Figures_png/GB_Perf.png
+COMP0189_CW2_HVWM7_Figures_png/download.png
+COMP0189_CW2_HVWM7_Figures_png/download 2.png
+COMP0189_CW2_HVWM7_Figures_png/CM_SVC.png
+COMP0189_CW2_HVWM7_Figures_png/CM_RF.png
+COMP0189_CW2_HVWM7_Figures_png/CM_LinearSVC.png
+COMP0189_CW2_HVWM7_Figures_png/CM_GB.png
+COMP0189_CW2_HVWM7_Figures_png/AGES_Histo.png
+COMP0189_CW2_HVWM7_Figures_png/3_SVC_Perf.png
+COMP0189_CW2_HVWM7_Figures_png/3_RF_Table.png
+COMP0189_CW2_HVWM7_Figures_png/3_RF_Perf.png
+COMP0189_CW2_HVWM7_Figures_png/3_RF_FI_P.png
+COMP0189_CW2_HVWM7_Figures_png/3_RF_FI.png
+COMP0189_CW2_HVWM7_Figures_png/3_LinearSVC_Table.png
+COMP0189_CW2_HVWM7_Figures_png/3_LinearSVC_Perf.png
+COMP0189_CW2_HVWM7_Figures_png/3_LinearSVC_FI.png
+COMP0189_CW2_HVWM7_Figures_png/3_GB_Table.png
+COMP0189_CW2_HVWM7_Figures_png/3_GB_FI.png
+COMP0189_CW2_HVWM7_Figures_png/1_SCALING_ex.png
